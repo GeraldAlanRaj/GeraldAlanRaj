@@ -33,6 +33,7 @@ Reach me at : geraldalanraj@gmail.com
 
 
 ---
+<!-- 
 
 ### 📊 GitHub Stats
 
@@ -52,4 +53,5 @@ Reach me at : geraldalanraj@gmail.com
 </p>
 
 ---
+-->
 
