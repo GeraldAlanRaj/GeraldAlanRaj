@@ -1,27 +1,29 @@
 <h1 align="center">Hi 👋, I'm Gerald Alan Raj</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | Data Science Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer | MERN Stack & Data Science Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+Hi there! I'm a Computer Science student who enjoys building web apps, working with data, and exploring tech that solves real problems. I'm particularly interested in full stack development and data-driven applications, and I'm always up for learning something new or collaborating on exciting projects.
+
+---
+
+### 🌐 Connect with me
+
 <p align="left">
-I'm a highly motivated Computer Science undergrad passionate about building scalable web applications, exploring data-driven insights, and working on impactful tech solutions. I enjoy learning new technologies and combining software engineering with data science to solve real-world problems.
+  <a href="https://www.linkedin.com/in/geraldalanraj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/GeraldAlanRaj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://leetcode.com/u/Gerry_AJ/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/geraldalanraj" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/geraldalanraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="geraldalanraj" height="30" width="40" /></a>
-  <a href="https://github.com/GeraldAlanRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="geraldalanraj" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Gerry_AJ/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="gerry_aj" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/geraldalanraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="geraldalanraj" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/geraldalanraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="geraldalanraj" height="30" width="40" /></a>
-  <a href="https://github.com/GeraldAlanRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="geraldalanraj" height="30" width="40" /></a>
-  <a href="https://leetcode.com/u/Gerry_AJ/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="gerry_aj" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/geraldalanraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="geraldalanraj" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
