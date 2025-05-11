@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gerald Alan Raj</h1>
-<h3 align="center">A passionate tech enthusiast diving deep into Data Science, Full Stack Development, and IoT</h3>
+<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | Data Science Enthusiast</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 I’m currently working on **"No Idea - A Fitness Application"** using the MERN stack  
-- 🌱 I’m learning **Deep Learning, JWT Auth, and Advanced Full Stack Architectures**  
-- 💬 Ask me about **Java, Python, MERN stack, and Data Analytics**  
-- 📫 Reach me at **geraldalanraj@gmail.com**  
-- 📄 [Here’s my Resume](https://drive.google.com/file/d/1oNcSfcPGhlDDQQQzssW5rypfVkTBkYNP/view?usp=sharing)
+<p align="left">
+I'm a highly motivated Computer Science undergrad passionate about building scalable web applications, exploring data-driven insights, and working on impactful tech solutions. I enjoy learning new technologies and combining software engineering with data science to solve real-world problems.
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/geraldalanraj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="geraldalanraj" height="30" width="40" /></a>
+  <a href="https://github.com/GeraldAlanRaj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="geraldalanraj" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Gerry_AJ/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" alt="gerry_aj" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/geraldalanraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" alt="geraldalanraj" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
