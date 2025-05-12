@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-Hi there! I'm a Computer Science student who enjoys building full-stack web apps, analyzing data, and learning new technologies. My interests lie in solving real-world problems through code and constantly pushing myself to grow as a developer.
+I'm a Computer Science student who enjoys building full-stack web apps, analyzing data, and learning new technologies. My interests lie in solving real-world problems through code and constantly pushing myself to grow as a developer.
 
 ---
 
@@ -53,5 +53,9 @@ Reach me at : geraldalanraj@gmail.com
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GeraldAlanRaj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile View Counter"/>
+</p>
 -->
 
