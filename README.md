@@ -1,7 +1,6 @@
 <h1 align="center">Hello There, I'm Gerald Alan Raj!</h1>
 <h3 align="center">CS undergrad who enjoys building web apps and exploring deep learning</h3>
 
-<br></br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Hi there! I'm a Computer Science student who enjoys building full-stack web apps, analyzing data, and learning new technologies. My interests lie in solving real-world problems through code and constantly pushing myself to grow as a developer.
