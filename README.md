@@ -1,7 +1,7 @@
 <h1 align="center">Hello There, I'm Gerald Alan Raj!</h1>
 <!--<h3 align="center">CS undergrad who enjoys building web apps and exploring deep learning</h3> -->
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="400" src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3wkEmzzZ8tLCFFKzrdSJ1Q&ust=1749108962385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDNl-Wg140DFQAAAAAdAAAAABBE)](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)" />
 
 I'm a Computer Science undergrad who enjoys building full-stack web applications, exploring deep learning, analyzing data, and staying curious about new technologies. I'm passionate about solving real-world problems through code and continuously pushing myself to grow as a developer.
 
