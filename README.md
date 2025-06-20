@@ -3,6 +3,8 @@
 
 I'm a Computer Science undergrad who enjoys building full-stack web applications, exploring deep learning, analyzing data, and staying curious about new technologies. I'm passionate about solving real-world problems through code and continuously pushing myself to grow as a developer.
 
+<!--<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" /> -->
+
 ---
 
 Reach me at : geraldalanraj@gmail.com
